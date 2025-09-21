@@ -1,4 +1,4 @@
-# nestjs-packer
+# L2Code
 
 Este projeto é uma API NestJS para empacotamento de pedidos em caixas.
 
@@ -15,7 +15,7 @@ Este projeto é uma API NestJS para empacotamento de pedidos em caixas.
 
    ```sh
    git clone https://github.com/lezisilva163/L2Code.git
-   cd nestjs-packer
+   cd L2Code
    ```
 
 2. **Construa e execute o container:**
